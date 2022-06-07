@@ -19,9 +19,9 @@ We present Patch-CNN-DTI, a deep-learning method to estimate diffusion tensors (
 <hr>
 
 <h1> Education </h1>
-2019-onwards: PhD in Medical Imaging, UCL
+2019-present: PhD in Medical Imaging, UCL
 
 2018-2019: MRes in Medical Imaging, UCL
 
-2015-2018: BSc in Mathematics, University of Bristol
+2013-2017: MSci in Physics, University of Birmingham
 <hr>
