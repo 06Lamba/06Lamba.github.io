@@ -19,9 +19,9 @@ Despite its potential as an imaging biomarker in assessing tumor response to the
 <hr>
 
 <h1> Education </h1>
-2019-present: PhD in Medical Imaging, UCL
+2019-present: PhD in Medical Imaging, University College London
 
-2018-2019: MRes in Medical Imaging, UCL
+2018-2019: MRes in Medical Imaging, University College London
 
 2013-2017: MSci in Physics, University of Birmingham
 <hr>
