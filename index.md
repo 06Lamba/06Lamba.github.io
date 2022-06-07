@@ -8,6 +8,7 @@ I am a final year PhD student in the Centre for Medical Imaging ([CMI](https://w
 [ISMRM 2022 abstract](https://index.mirasmart.com/ISMRM2022/PDFfiles/1685.html 'ISMRM 2022 abstract')
 
 See the abstract presentation I gave at ISMRM 2022 on youtube:
+
 [![My photo](/images/ismrm22_title.jpg)](https://youtu.be/VgczjgN_UKk)
 
 We investigate the reliability of whole-body imaging apparent diffusion coefficient (ADC) estimates from subjects tested and retested within- and between-scanners from different vendors with minimal differences in acquisition protocol and post-acquisition analysis. We show substantial within-subject variation in extracranial ADC estimates within- and between-scanners as measured by Limits of Agreement. We additionally show between-scan variability between scanners is dominated by between-scan variability within a scanner. Furthermore, averaging across subsequent within-scanner examinations does not substantially improve reliability of ADC estimates. We therefore conclude a post-acquisition method for reducing within-scanner variation is required to improve the reliability of ADC estimates.
@@ -18,6 +19,7 @@ We investigate the reliability of whole-body imaging apparent diffusion coeffici
 [ISMRM 2021 abstract](https://index.mirasmart.com/ISMRM2021/PDFfiles/2445.html 'ISMRM 2021 abstract')
 
 See the abstract presentation I gave at ISMRM 2021 on youtube:
+
 [![My photo](/images/ismrm21_title.jpg)](https://youtu.be/Yn8tiSJIXHs)
 
 Despite its potential as an imaging biomarker in assessing tumor response to therapy, use of ADC as a quantitative endpoint is not routine in clinical practice. One factor that limits the usefulness of ADC is the presence of artifacts in the constituent diffusion-weighted imaging (DWI) data. In this study, we propose a supervised deep-learning approach to detect the presence of Nyquist ghosts in axial DWI slices of the abdomen, achieving a test accuracy of 81.5%. The detection and removal of these artifacts could help improve the reproducibility of quantitative ADC measurements.
