@@ -7,14 +7,14 @@ I am a final year PhD student in the Centre for Medical Imaging ([CMI](https://w
 <h1> Variability of ADC estimates between scanners from whole body imaging is dominated by within-scanner variance </h1>
 [ISMRM 2022 abstract](https://index.mirasmart.com/ISMRM2022/PDFfiles/1685.html 'ISMRM 2022 abstract')
 
-We demonstrate the advantages of spherical convolutional neural networks over conventional fully connected networks at estimating rotationally invariant microstructure indices. Fully-connected networks (FCN) have outperformed conventional model fitting for estimating microstructure indices, such as FA. However, these methods are not robust to changes diffusion weighted image sampling scheme nor are they rotationally equivariant. Recently spherical-CNN have been supposed as a solution to this problem. However, the advantages of spherical-CNNs have not been leveraged. We demonstrate both spherical-CNNs robust to new gradient schemes as well as the rotational equivariance. This has potential to decrease the number of training datapoints required.
+We investigate the reliability of Whole-Body Imaging ADC estimates from subjects tested and retested within- and between-scanners from different vendors with minimal differences in acquisition protocol and post-acquisition analysis. We show substantial within-subject variation in extracranial ADC estimates within- and between-scanners as measured by Limits of Agreement. We additionally show between-scan variability between scanners is dominated by between-scan variability within a scanner. Furthermore, averaging across subsequent within-scanner examinations does not substantially improve reliability of ADC estimates. We therefore conclude a post-acquisition method for reducing within-scanner variation is required to improve the reliability of ADC estimates.
 
 <hr>
 
 <h1> Automatic detection of Nyquist ghosts in whole-body diffusion weighted MRI using deep learning </h1>
 [ISMRM 2021 abstract](https://index.mirasmart.com/ISMRM2021/PDFfiles/2445.html 'ISMRM 2021 abstract')
 
-We present Patch-CNN-DTI, a deep-learning method to estimate diffusion tensors (DT) accurately from only 6 diffusion-weighted images. Early voxel-wise deep-learning methods can only estimate scalar measures of DT. Later work shows DT can be estimated using image-wise methods based on convolutional neural networks (CNN), but they require large training cohort. Patch-CNN-DTI can estimate DT with only one training subject, by pooling information from local neighbourhood of a voxel similar to the CNN but at a much smaller scale to minimise training data requirements. Results show it outperforms conventional model fitting with twice the number of diffusion directions.
+Despite its potential as an imaging biomarker in assessing tumor response to therapy, use of apparent diffusion coefficient (ADC) as a quantitative endpoint is not routine in clinical practice. One factor that limits the usefulness of ADC is the presence of artifacts in the constituent diffusion-weighted imaging (DWI) data. In this study, we propose a supervised deep-learning approach to detect the presence of Nyquist ghosts in axial DWI slices of the abdomen, achieving a test accuracy of 81.5%. The detection and removal of these artifacts could help improve the reproducibility of quantitative ADC measurements.
 
 <hr>
 
