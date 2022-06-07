@@ -7,11 +7,11 @@ I am a final year PhD student in the Centre for Medical Imaging ([CMI](https://w
 <h1> Variability of ADC estimates between scanners from whole-body imaging is dominated by within-scanner variance </h1>
 [ISMRM 2022 abstract](https://index.mirasmart.com/ISMRM2022/PDFfiles/1685.html 'ISMRM 2022 abstract')
 
+We investigate the reliability of whole-body imaging apparent diffusion coefficient (ADC) estimates from subjects tested and retested within- and between-scanners from different vendors with minimal differences in acquisition protocol and post-acquisition analysis. We show substantial within-subject variation in extracranial ADC estimates within- and between-scanners as measured by Limits of Agreement. We additionally show between-scan variability between scanners is dominated by between-scan variability within a scanner. Furthermore, averaging across subsequent within-scanner examinations does not substantially improve reliability of ADC estimates. We therefore conclude a post-acquisition method for reducing within-scanner variation is required to improve the reliability of ADC estimates.
+
 See the abstract presentation I gave at ISMRM 2022 on youtube:
 
 [![My photo](/images/ismrm22_title.jpg)](https://youtu.be/VgczjgN_UKk)
-
-We investigate the reliability of whole-body imaging apparent diffusion coefficient (ADC) estimates from subjects tested and retested within- and between-scanners from different vendors with minimal differences in acquisition protocol and post-acquisition analysis. We show substantial within-subject variation in extracranial ADC estimates within- and between-scanners as measured by Limits of Agreement. We additionally show between-scan variability between scanners is dominated by between-scan variability within a scanner. Furthermore, averaging across subsequent within-scanner examinations does not substantially improve reliability of ADC estimates. We therefore conclude a post-acquisition method for reducing within-scanner variation is required to improve the reliability of ADC estimates.
 
 <hr>
 
