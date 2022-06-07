@@ -2,7 +2,7 @@
 ![My photo](/images/circle_photo.png){: style="width:180px; float: right;"}
 
 <h1> Overview </h1>
-I am a final year PhD student in the Centre for Medical Imaging ([CMI](https://www.ucl.ac.uk/medical-imaging/ 'CMI')) group at UCL. My supervisors are Dr Anna Barnes and Prof Gary Zhang. My work is focussed around applying statistics and deep learning to quantitative whole-body magnetic resonance imaging (WB-MRI) in the context of metastatic cancer.
+I am a final year PhD student in the Centre for Medical Imaging ([CMI](https://www.ucl.ac.uk/medical-imaging/ 'CMI')) at UCL. My supervisors are [Dr Anna Barnes](https://kclpure.kcl.ac.uk/portal/anna.barnes.html 'Anna's KCL Profile'), director of King's Technology Evaluation Centre ([KiTEC](https://www.kcl.ac.uk/lsm/research/divisions/hscr/research/groups/biostatistics/current-projects/kitec/kitec 'KiTEC')) at KCL, and [Prof Gary Zhang](https://iris.ucl.ac.uk/iris/browse/profile?upi=HZHAN50 'Gary's Iris page'), head of the Computational Imaging Group ([CIG](https://cig-ucl.github.io/ 'CIG')) at UCL. My work is focussed around applying statistics and deep learning to quantitative whole-body magnetic resonance imaging (WB-MRI) in the context of metastatic cancer.
 <hr>
 <h1> Spherical-CNN based diffusion MRI parameter estimation is robust to gradient schemes and equivariant to rotation </h1>
 [ISMRM 2022 abstract](https://index.mirasmart.com/ISMRM2022/PDFfiles/2605.html 'ISMRM 2022 abstract')
